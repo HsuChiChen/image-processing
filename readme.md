@@ -154,7 +154,7 @@ Y_omega2做PCA降維`N=224→2`
 ![](img/final_3.svg)
 ![](img/final_4.svg)
 
-### 3. 求Y
+3. 求Y
 
 |input|output|
 |:-:|:-:|
