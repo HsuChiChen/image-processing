@@ -8,7 +8,7 @@ Time : 2020 fall (first half semester of sophomore)
 
 <br>
 
-## Homework
+## Report
 - [Midterm](#Midterm)
 - [Final](#Final)
 
